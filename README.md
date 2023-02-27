@@ -4,4 +4,4 @@ Aplikasi web yang menggunakan input berupa gambar produk untuk membandingkan har
 Kelompok Apa Ya:
 
 
-Anggota 3: Muhammad Farras Ilhami - 20/456843/TK/50667
+Anggota 2: Muhammad Farras Ilhami - 20/456843/TK/50667
