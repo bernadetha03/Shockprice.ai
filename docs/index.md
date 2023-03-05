@@ -1,7 +1,7 @@
 Apa Ya \
 Bernadetha Wicha Permatasari (18/431997/TK/48014)\
 Marsellius (20/456372/TK/50502) \
-Muhammad Farras Ilhami (20/456843/TK/50667) \\
+Muhammad Farras Ilhami (20/456843/TK/50667) \
 Project Senior Project TI \
 Departmen Teknologi Elektro dan Teknologi Informasi \ 
 Universitas Gadjah Mada \
