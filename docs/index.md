@@ -1,9 +1,5 @@
-Nama Kelompok: Apa Ya
-Anggota:
-- Bernadetha - 18/431997/TK/48014
-- Marsellius - 20/456372/TK/50502
-- Muhammad Farras Ilhami - 20/456843/TK/50667
-
-Project Senior Project TI
-
-Departemen Teknologi Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas Gadjah Mada
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Shockprice.ai
+description: Aplikasi web yang menggunakan input berupa gambar produk untuk membandingkan harga produk tersebut di berbagai marketplace daring
